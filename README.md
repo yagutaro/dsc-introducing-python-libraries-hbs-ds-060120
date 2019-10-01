@@ -9,15 +9,15 @@ In this lesson, we will look at some of the key libraries used in Python for Dat
 
 ## Objectives
 You will be able to:
-* Understand and be able to explain what a library is and why is it important
-* Understand and explain the purpose of the key Data Science libraries in Python (Numpy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-learn, StatsModels, TensorFlow, and Keras) 
+- Understand and be able to explain what a library is and why it is important
+- Understand and explain the purpose of the key Data Science libraries in Python (Numpy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-learn, StatsModels, TensorFlow, and Keras) 
 
 
 ## Python Libraries for Data Science
 
 ## Scientific Computation
 
-One of the key requirements for a Data Scientist is to be able to convert data into an easy to process format. Data, represented inside a computer may become too large to be processed efficiently by Python's native lists and dictionaries and using Python's built-in methods. The following libraries add scientific computation abilities to Python for working efficiently with larger data sets. 
+One of the key requirements for a Data Scientist is to be able to convert data into an easy-to-process format. Data, represented inside a computer, may become too large to be processed efficiently by Python's native lists and dictionaries and using Python's built-in methods. The following libraries add scientific computation abilities to Python for working efficiently with larger data sets. 
 
 ### NumPy 
 
@@ -33,7 +33,7 @@ The library provides these mathematical operations using the NumPy **array** dat
 * Useful linear algebra, Fourier transform, and random number capabilities
 * Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
 
-Numpy is also used as a foundation for other more advanced libraries as we shall see below.
+Numpy is also used as a foundation for other, more advanced, libraries as we shall see below.
 
 ### SciPy
 
@@ -117,7 +117,7 @@ Seaborn is complementary to Matplotlib and it specifically targets statistical d
 
 <img src="images/seaborn_2.png" width="500">
 
-> If Matplotlib "tries to make easy things easy and hard things possible", then Seaborn tries to make a well-defined set of hard things easy too.
+> If Matplotlib "tries to make easy things easy and hard things possible," then Seaborn tries to make a well-defined set of hard things easy too.
 
 Since Seaborn complements and extends Matplotlib, if you know Matplotlib, you’ll already have most of Seaborn down. Your plots with Seaborn will be more attractive, need less time to create, and will reveal more information. 
 
@@ -153,8 +153,8 @@ Keras is an open-source library for building Neural Networks with a high-level o
 
 <img src="images/keras.jpg" width="320">
 
-Keras is really easy to get started with and for quick prototyping, it is highly modular and extensible. Notwithstanding its ease, simplicity, and high-level orientation, Keras is still deep and powerful enough for serious modeling. In the deep learning section of our course, we shall introduce you to Keras to help you dive into deep neural networks.
+Keras is really easy to get started with and for quick prototyping, it is highly modular and extensible. Notwithstanding its ease, simplicity, and high-level orientation, Keras is still deep and powerful enough for serious modeling. In the deep learning section of our course, we will introduce you to Keras to help you dive into deep neural networks.
 
 ## Summary 
 
-A big part of your journey as a Data Scientist will be building comfort and familiarity with the key Python Data Science libraries that we've outlined in this lesson. As the course progresses you'll get plenty of hands-on experience with each one of them!
+A big part of your journey as a Data Scientist will be building comfort and familiarity with the key Python Data Science libraries that we've outlined in this lesson. As the course progresses, you'll get plenty of hands-on experience with each one of them!
