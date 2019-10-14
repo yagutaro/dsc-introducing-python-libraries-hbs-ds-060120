@@ -9,7 +9,6 @@ In this lesson, we will look at some of the key libraries used in Python for Dat
 
 ## Objectives
 You will be able to:
-- Understand and be able to explain what a library is and why it is important
 - Understand and explain the purpose of the key Data Science libraries in Python (Numpy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-learn, StatsModels, TensorFlow, and Keras) 
 
 
@@ -43,14 +42,14 @@ In the Data Science domain, Python’s SciPy stack (a collection of software spe
 
 SciPy is a library of software for engineering and science applications and contains functions for **linear algebra**, **optimization**, **integration**, and **statistics**. 
 
-The functionality of the SciPy library is built on top of NumPy, and its data structures make heavy use of NumPy. It provides efficient numerical computational routines and comes packaged with a number of specific submodules. The following are a few submodules from this library which are very commonly applied to Data Science experiments: 
+The functionality of the SciPy library is built on top of NumPy, and its data structures make heavy use of NumPy. It provides efficient numerical computational routines and comes packaged with a number of specific submodules. The following are a few modules from this library which are very commonly applied to Data Science experiments: 
 
 
-* `stats`: statistical functions
-* `linalg`: linear algebra routines
-* `fftpack`: Discrete Fourier Transform algorithms
-* `signal`: signal processing tools
-* `optimize`: optimization algorithms including linear programming
+* `stats`: Statistical functions
+* `linalg`: Linear algebra routines
+* `fftpack`: Discrete Fourier transform algorithms
+* `signal`: Signal processing tools
+* `optimize`: Optimization algorithms including linear programming
 
 ### Statsmodels 
 Statsmodels is a library for Python that enables its users to conduct data exploration via the use of various methods of estimation of statistical models and performing statistical assertions and analysis.
@@ -105,8 +104,8 @@ Stem plots
 Contour plots
 Quiver plots
 Spectrograms
+``` 
 
-```
 There are also facilities for creating labels, grids, legends, and many other formatting entities with Matplotlib. Basically, everything is customizable.
 
 The library, however, is pretty low-level which means that you will need to write more code for advanced visualizations and will generally need more effort.
@@ -122,6 +121,7 @@ Seaborn is complementary to Matplotlib and it specifically targets statistical d
 Since Seaborn complements and extends Matplotlib, if you know Matplotlib, you’ll already have most of Seaborn down. Your plots with Seaborn will be more attractive, need less time to create, and will reveal more information. 
 
 ## Machine Learning 
+
 ### Scikit-Learn 
 
 Scikits are Scientific "kits" on top of the SciPy stack. These are designed to add specific functionality to SciPy like image processing and machine learning facilitation. For machine learning, one of the most heavily used packages is **scikit-learn**. The package makes heavy use of its mathematical operations to model and test complex computational algorithms.
