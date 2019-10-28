@@ -9,7 +9,7 @@ In this lesson, we will look at some of the key libraries used in Python for Dat
 
 ## Objectives
 You will be able to:
-- Understand and explain the purpose of the key Data Science libraries in Python (Numpy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-learn, StatsModels, TensorFlow, and Keras) 
+- Explain the purpose of common Python libraries in the data science toolkit
 
 
 ## Python Libraries for Data Science
